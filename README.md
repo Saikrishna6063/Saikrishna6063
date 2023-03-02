@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Saikrishna6063
-- 👀 I’m interested in Internet of things, Machine learning, Embedded system, networking
-- 🌱 I’m currently learning 2nd year,ECE,B.E
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me saikrishna6063@gmail.com, 8790800468
+Hey ,i am Sai krishna! 
+Now i am doing a project on social media topic .
 
-<!---
-Saikrishna6063/Saikrishna6063 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What is Social Media?
+
+Social media refers to the means of interactions among people in which they create, share, and/or exchange information and ideas in virtual communities and networks. The Office of Communications and Marketing manages the main Facebook, Twitter, Instagram, LinkedIn and YouTube accounts.
+
+We offer an array of tools, including one-on-one consults with schools, departments and offices looking to form or maintain an existing social media presence to discuss social media goals and strategy, as well as offer insights and ideas. Before creating any social media account, you must submit the Account Request Form. Be sure to check with your school’s communications office for any school specific regulations or branding guidelines.
+
